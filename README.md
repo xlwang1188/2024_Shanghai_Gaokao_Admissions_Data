@@ -1,0 +1,2 @@
+# 2024_Shanghai_Gaokao_Admissions_Data
+2024年上海市普通高等学校招生各专业录取人数及考分
